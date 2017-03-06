@@ -8,3 +8,15 @@ h1 {
 	font-size: 50px;
 	text-align: center;
 }
+
+a {
+	color: white;
+	text-decoration: none;
+	padding-left: 20px;
+	font-family: Oswald;
+	font-size: 20px;
+}
+
+a:hover {
+	color: blue;
+}
