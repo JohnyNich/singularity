@@ -1,0 +1,10 @@
+body {
+	background-color: DarkCyan;
+	color: white;
+	font-family: "Open Sans Condensed";
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
