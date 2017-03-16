@@ -34,13 +34,27 @@ p {
 	font-family: Arial;
 }
 
+.special-word {
+	font-style: italic;
+}
+
 #header {
 	padding-bottom: 20px;
 }
 
 #body {
 	padding-top: 3px;
-	padding-bottom: 3px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 	background-color: white;
 	color: black;
+}
+
+#edward-snowden {
+	width: 171px;
+	height: 207px;
+	float: left;
+	padding-right: 20px;
+	padding-bottom: 20px;
 }

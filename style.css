@@ -18,5 +18,7 @@ a {
 }
 
 a:hover {
+	transition-duration: 0.4s;
+	-webkit-transition-duration: 0.4s;
 	color: blue;
 }
