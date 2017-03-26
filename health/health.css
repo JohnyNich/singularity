@@ -46,3 +46,13 @@ p {
 	background-color: white;
 	color: black;
 }
+
+#bbc-video {
+	margin-left: 5px;
+	margin-right: 20px;
+}
+
+#ted-video {
+	margin-left: 20px;
+	margin-right: 5px;
+}
