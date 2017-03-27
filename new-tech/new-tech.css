@@ -26,4 +26,19 @@ h1 {
 	font-size: 50px;
 }
 
+#body {
+	padding-top: 3px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: white;
+	color: black;
+}
 
+#google-ai-experiments {
+	color: black;
+}
+
+#google-ai-experiments:hover {
+	color: red;
+}
